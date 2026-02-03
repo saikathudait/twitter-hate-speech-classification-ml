@@ -21,6 +21,7 @@ The solution follows a complete machine learning lifecycle from data exploration
 ### Dataset File
 ```text
 labeled_data.csv
+```
 
 ### Data Preprocessing
 
